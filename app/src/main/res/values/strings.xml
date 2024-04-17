@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Little Lemon</string>
+    <string name="title">Little Lemon</string>
+    <string name="location">Chicago</string>
+    <string name="description">We are a family owned Mediterranean restaurant, focused on traditional recipes served with a modern twist.</string>
+    <string name="order_button_text">Order Take Away</string>
+    <string name="weekly_special">Weekly Special</string>
+    <string name="add_for">Add for</string>
+    <string name="enter_search_phrase">Search</string>
+    <string name="order_for_delivery">Order for delivery</string>
+    <string name="lets_get_to">lets get to</string>
+    <string name="personal_info">Personal Info</string>
+    <string name="first_name">First Name</string>
+    <string name="first_name_placeholder">Tshepo</string>
+    <string name="last_name">Last name</string>
+    <string name="last_name_placeholder">Mahlaola</string>
+    <string name="email">Email</string>
+    <string name="email_placeholder">tshepo@mahlaola.com</string>
+    <string name="register">Register</string>
+    <string name="log_out">Log out</string>
+
+</resources>
